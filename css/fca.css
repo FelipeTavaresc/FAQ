@@ -1,8 +1,15 @@
 body{
 	padding-top: 50px;
+	font-family: "Trebuchet MS", sans-serif;
+	margin: 50px;
+	text-decoration: none;
 }
 
-.principal{
+/*.principal{
 	padding: 40px 15px;
 	text-align: center;
+}
+*/
+.negrito{
+	font-weight: bold;
 }
